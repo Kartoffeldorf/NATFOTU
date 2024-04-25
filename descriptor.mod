@@ -9,5 +9,5 @@ tags={
 	"Map"
 }
 name="North America Divided: Fall of the Union"
-supported_version="1.14.4"
+supported_version="1.14.5"
 remote_file_id="3227134552"
