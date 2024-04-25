@@ -16,6 +16,22 @@ MEX = {
 	color = rgb { 104 152 83 }
 	color_ui = rgb { 135 198 108 }
 }
+SCM = {
+	color = rgb { 255 255 51 }
+	color_ui = rgb { 255 255 51 }
+}
+LAN = {
+	color = rgb { 43 140 190 }
+	color_ui = rgb { 43 140 190 }
+}
+SND = {
+	color = rgb { 247 129 191 }
+	color_ui = rgb { 247 129 191 }
+}
+FRS = {
+	color = rgb { 146 197 222 }
+	color_ui = rgb { 146 197 222 }
+}
 ########################
 # Others
 ########################

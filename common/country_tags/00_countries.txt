@@ -2,6 +2,10 @@ JFF = "countries/Jefferson.txt"
 CAN = "countries/Canada.txt"
 MEX = "countries/Mexico.txt"
 SIV = "countries/Silicon Valley.txt"
+SCM = "countries/Sacramento.txt"
+LAN = "countries/Los Angeles.txt"
+SND = "countries/San Diego.txt"
+FRS = "countries/Fresno.txt"
 ######################################
 # Others
 ######################################

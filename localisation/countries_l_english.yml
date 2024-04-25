@@ -52,6 +52,46 @@
  SIV_communism_DEF:1 "The Commune of Silicon Valley"
  SIV_ADJ:0 "Slicon Valley"
  
+ SCM_fascism:1 "Sacramento"
+ SCM_fascism_DEF:1 "The Sacramento"
+ SCM_democratic:1 "Sacramento"
+ SCM_democratic_DEF:1 "Sacramento"
+ SCM:0 "Slicon Valley"
+ SCM_DEF:0 "Slicon Valley"
+ SCM_communism:1 "The Commune of Sacramento"
+ SCM_communism_DEF:1 "The Commune of Sacramento"
+ SCM_ADJ:0 "Sacramento"
+ 
+ LAN_fascism:1 "Los Angeles"
+ LAN_fascism_DEF:1 "The Los Angeles"
+ LAN_democratic:1 "Los Angeles"
+ LAN_democratic_DEF:1 "Los Angeles"
+ LAN:0 "Slicon Valley"
+ LAN_DEF:0 "Slicon Valley"
+ LAN_communism:1 "The Commune of Los Angeles"
+ LAN_communism_DEF:1 "The Commune of Los Angeles"
+ LAN_ADJ:0 "Los Angeles"
+ 
+ SND_fascism:1 "San Diego"
+ SND_fascism_DEF:1 "The San Diego"
+ SND_democratic:1 "San Diego"
+ SND_democratic_DEF:1 "San Diego"
+ SND:0 "Slicon Valley"
+ SND_DEF:0 "Slicon Valley"
+ SND_communism:1 "The Commune of San Diego"
+ SND_communism_DEF:1 "The Commune of San Diego"
+ SND_ADJ:0 "San Diego"
+ 
+ FRS_fascism:1 "Fresno"
+ FRS_fascism_DEF:1 "The Fresno"
+ FRS_democratic:1 "Fresno"
+ FRS_democratic_DEF:1 "Fresno"
+ FRS:0 "Slicon Valley"
+ FRS_DEF:0 "Slicon Valley"
+ FRS_communism:1 "The Commune of Fresno"
+ FRS_communism_DEF:1 "The Commune of Fresno"
+ FRS_ADJ:0 "Fresno"
+ 
  ######################################
  ###                                ###
  ###        Central America         ###
