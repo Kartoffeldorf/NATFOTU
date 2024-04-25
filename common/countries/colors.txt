@@ -5,8 +5,8 @@ JFF = {
 	color_ui = rgb { 252 78 42 }
 }
 SIV = {
-	color = rgb { 253 253 0 }
-	color_ui = rgb { 253 253 0 }
+	color = rgb { 15 133 84 }
+	color_ui = rgb { 15 133 84 }
 }
 CAN = {
 	color = rgb { 233 59 59 }
