@@ -12,6 +12,7 @@ ORG = "countries/Oregon.txt"
 CAS = "countries/Cascadia.txt"
 WAS = "countries/Washington.txt"
 SEA = "countries/Seattle.txt"
+LAS = "countries/Las Vegas.txt"
 ######################################
 # Others
 ######################################
