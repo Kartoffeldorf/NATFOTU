@@ -151,7 +151,16 @@
  SEA_communism:1 "The Commune of Seattle"
  SEA_communism_DEF:1 "The Commune of Seattle"
  SEA_ADJ:0 "Seattle"
- 
+
+ LAS_fascism:1 "Las Vegas"
+ LAS_fascism_DEF:1 "The Las Vegas"
+ LAS_democratic:1 "Las Vegas"
+ LAS_democratic_DEF:1 "Las Vegas"
+ LAS:0 "Las Vegas"
+ LAS_DEF:0 "Las Vegas"
+ LAS_communism:1 "The Commune of Las Vegas"
+ LAS_communism_DEF:1 "The Commune of Las Vegas"
+ LAS_ADJ:0 "Las Vegas"
  ######################################
  ###                                ###
  ###        Central America         ###
