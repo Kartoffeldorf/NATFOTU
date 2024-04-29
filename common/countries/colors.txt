@@ -52,7 +52,7 @@ WAS = {
 	color = rgb { 1 102 94 }
 	color_ui = rgb { 1 102 94 }
 }
-STL = {
+SEA = {
 	color = rgb { 202 86 44 }
 	color_ui = rgb { 202 86 44 }
 }

@@ -11,7 +11,7 @@ HWI = "countries/Hawaii.txt"
 ORG = "countries/Oregon.txt"
 CAS = "countries/Cascadia.txt"
 WAS = "countries/Washington.txt"
-STL = "countries/Seattle.txt"
+SEA = "countries/Seattle.txt"
 ######################################
 # Others
 ######################################

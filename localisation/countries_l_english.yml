@@ -142,15 +142,15 @@
  WAS_communism_DEF:1 "The Commune of Washington"
  WAS_ADJ:0 "Washington"
  
- STL_fascism:1 "Seattle"
- STL_fascism_DEF:1 "The Seattle"
- STL_democratic:1 "Seattle"
- STL_democratic_DEF:1 "Seattle"
- STL:0 "Seattle"
- STL_DEF:0 "Seattle"
- STL_communism:1 "The Commune of Seattle"
- STL_communism_DEF:1 "The Commune of Seattle"
- STL_ADJ:0 "Seattle"
+ SEA_fascism:1 "Seattle"
+ SEA_fascism_DEF:1 "The Seattle"
+ SEA_democratic:1 "Seattle"
+ SEA_democratic_DEF:1 "Seattle"
+ SEA:0 "Seattle"
+ SEA_DEF:0 "Seattle"
+ SEA_communism:1 "The Commune of Seattle"
+ SEA_communism_DEF:1 "The Commune of Seattle"
+ SEA_ADJ:0 "Seattle"
  
  ######################################
  ###                                ###
