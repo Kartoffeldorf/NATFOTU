@@ -161,6 +161,27 @@
  LAS_communism:1 "The Commune of Las Vegas"
  LAS_communism_DEF:1 "The Commune of Las Vegas"
  LAS_ADJ:0 "Las Vegas"
+ 
+ IDH_fascism:1 "Iadho"
+ IDH_fascism_DEF:1 "The Iadho"
+ IDH_democratic:1 "Iadho"
+ IDH_democratic_DEF:1 "Iadho"
+ IDH:0 "Iadho"
+ IDH_DEF:0 "Iadho"
+ IDH_communism:1 "The Commune of Iadho"
+ IDH_communism_DEF:1 "The Commune of Iadho"
+ IDH_ADJ:0 "Iadho"
+ 
+ MOR_fascism:1 "Mormon"
+ MOR_fascism_DEF:1 "The Mormon"
+ MOR_democratic:1 "Mormon"
+ MOR_democratic_DEF:1 "Mormon"
+ MOR:0 "Mormon"
+ MOR_DEF:0 "Mormon"
+ MOR_communism:1 "The Commune of Mormon"
+ MOR_communism_DEF:1 "The Commune of Mormon"
+ MOR_ADJ:0 "Mormon"
+ 
  ######################################
  ###                                ###
  ###        Central America         ###
