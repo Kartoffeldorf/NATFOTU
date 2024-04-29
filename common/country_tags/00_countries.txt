@@ -6,6 +6,12 @@ SCM = "countries/Sacramento.txt"
 LAN = "countries/Los Angeles.txt"
 SND = "countries/San Diego.txt"
 FRS = "countries/Fresno.txt"
+ALK = "countries/Alaska.txt"
+HWI = "countries/Hawaii.txt"
+ORG = "countries/Oregon.txt"
+CAS = "countries/Cascadia.txt"
+WAS = "countries/Washington.txt"
+STL = "countries/Seattle.txt"
 ######################################
 # Others
 ######################################
