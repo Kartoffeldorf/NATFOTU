@@ -68,6 +68,94 @@ MOR =  {
 	color = rgb { 255 255 179 }
 	color_ui = rgb { 255 255 179 }
 }
+ARZ =  {
+	color = rgb { 253 191 111 }
+	color_ui = rgb { 253 191 111 }
+}
+NMX =  {
+	color = rgb { 77 175 74 }
+	color_ui = rgb { 77 175 74 }
+}
+NAM =  {
+	color = rgb { 168 221 181 }
+	color_ui = rgb { 168 221 181 }
+}
+TXS =  {
+	color = rgb { 127 0 0 }
+	color_ui = rgb { 127 0 0 }
+}
+RKY =  {
+	color = rgb { 27 120 55 }
+	color_ui = rgb { 27 120 55 }
+}
+DEN =  {
+	color = rgb { 77 0 75 }
+	color_ui = rgb { 77 0 75 }
+}
+WIL =  {
+	color = rgb { 67 147 195 }
+	color_ui = rgb { 67 147 195 }
+}
+KNS =  {
+	color = rgb { 166 219 160 }
+	color_ui = rgb { 166 219 160 }
+}
+OKL =  {
+	color = rgb { 166 86 40 }
+	color_ui = rgb { 166 86 40 }
+}
+NEB =  {
+	color = rgb { 128 0 38 }
+	color_ui = rgb { 128 0 38 }
+}
+LAR =  {
+	color = rgb { 136 65 157 }
+	color_ui = rgb { 136 65 157 }
+}
+FMT =  {
+	color = rgb { 178 223 138 }
+	color_ui = rgb { 178 223 138 }
+}
+CMB =  {
+	color = rgb { 29 105 150 }
+	color_ui = rgb { 29 105 150 }
+}
+MSL =  {
+	color = rgb { 229 216 189 }
+	color_ui = rgb { 229 216 189 }
+}
+BLG =  {
+	color = rgb { 251 128 114 }
+	color_ui = rgb { 251 128 114 }
+}
+WYM =  {
+	color = rgb { 254 217 166}
+	color_ui = rgb { 254 217 166 }
+}
+NLT =  {
+	color = rgb { 255 255 191 }
+	color_ui = rgb { 255 255 191 }
+}
+NDK =  {
+	color = rgb { 215 48 31 }
+	color_ui = rgb { 215 48 31 }
+}
+SDK =  {
+	color = rgb { 55 126 184 }
+	color_ui = rgb { 55 126 184 }
+}
+KCY =  {
+	color = rgb { 69 117 180 }
+	color_ui = rgb { 69 117 180 }
+}
+LMR =  {
+	color = rgb { 254 217 118 }
+	color_ui = rgb { 254 217 118 }
+}
+MNT =  {
+	color = rgb { 179 205 227 }
+	color_ui = rgb { 179 205 227 }
+}
 ########################
 # Others
 ########################
