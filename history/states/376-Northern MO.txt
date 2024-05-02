@@ -1,29 +1,35 @@
+
 state={
-	id=215
-	name="STATE_215"
+	id=376
+	name="STATE_376"
 	resources={
-		chromium=3.000
-		tungsten=3.000
+		aluminium=6.000
+		tungsten=1.000
 	}
+
 	history={
-		owner = MST
-		add_core_of = MST
+		owner = MSR
+		add_core_of = MSR
+		1936.1.2 = {
+			owner = USA
+
+		}
 		buildings = {
 			infrastructure = 2
 			industrial_complex = 1
 			arms_factory = 1
-		}
-		1936.1.2 = {
-			owner = USA
+			air_base = 2
+
 		}
 		victory_points = {
-			8151 1
+			8124 2
 		}
 	}
+
 	provinces={
-		2537 2607 8151 8155 8160 8162 
+		2051 4992 7502 7503 8123 8124 8127 8256 
 	}
-	manpower=158742
+	manpower=955000
 	buildings_max_level_factor=1.000
 	state_category=rural
 }

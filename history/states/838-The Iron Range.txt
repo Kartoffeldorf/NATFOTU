@@ -1,9 +1,8 @@
 state={
-	id=215
-	name="STATE_215"
+	id=838
+	name="STATE_838"
 	resources={
-		chromium=3.000
-		tungsten=3.000
+		steel=118.000
 	}
 	history={
 		owner = MST
@@ -11,19 +10,19 @@ state={
 		buildings = {
 			infrastructure = 2
 			industrial_complex = 1
-			arms_factory = 1
 		}
 		1936.1.2 = {
 			owner = USA
 		}
 		victory_points = {
-			8151 1
+			8174 5 
 		}
 	}
 	provinces={
-		2537 2607 8151 8155 8160 8162 
+		2883 8174 8175 8180 
 	}
-	manpower=158742
+	manpower=105852
 	buildings_max_level_factor=1.000
 	state_category=rural
+	local_supplies=0.000
 }
