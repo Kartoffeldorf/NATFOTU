@@ -156,6 +156,110 @@ MNT =  {
 	color = rgb { 179 205 227 }
 	color_ui = rgb { 179 205 227 }
 }
+MST =  {
+	color = rgb { 116 169 207 }
+	color_ui = rgb { 116 169 207 }
+}
+IWA =  {
+	color = rgb { 223 194 125 }
+	color_ui = rgb { 223 194 125 }
+}
+WIS =  {
+	color = rgb { 237 173 8 }
+	color_ui = rgb { 237 173 8 }
+}
+MSR =  {
+	color = rgb { 0 82 81 }
+	color_ui = rgb { 0 82 81 }
+}
+UFF =  {
+	color = rgb { 118 42 131 }
+	color_ui = rgb { 118 42 131 }
+}
+FRD =  {
+	color = rgb { 33 102 172 }
+	color_ui = rgb { 33 102 172 }
+}
+MGN =  {
+	color = rgb { 112 164 148 }
+	color_ui = rgb { 112 164 148 }
+}
+KRG =  {
+	color = rgb { 53 151 143 }
+	color_ui = rgb { 53 151 143 }
+}
+CLB =  {
+	color = rgb { 277 26 28 }
+	color_ui = rgb { 277 26 28 }
+}
+KFC =  {
+	color = rgb { 140 81 10 }
+	color_ui = rgb { 140 81 10 }
+}
+WVA =  {
+	color = rgb { 189 50 0 }
+	color_ui = rgb { 189 50 0 }
+}
+MTH =  {
+	color = rgb { 127 205 187 }
+	color_ui = rgb { 127 205 187 }
+}
+VGA =  {
+	color = rgb { 179 0 0 }
+	color_ui = rgb { 179 0 0 }
+}
+USA =  {
+	color = rgb { 8 64 129 }
+	color_ui = rgb { 8 64 129 }
+}
+PEN =  {
+	color = rgb { 180 200 168 }
+	color_ui = rgb { 180 200 168 }
+}
+LKW =  {
+	color = rgb { 37 52 148 }
+	color_ui = rgb { 37 52 148 }
+}
+MWK =  {
+	color = rgb { 0 109 44 }
+	color_ui = rgb { 0 109 44 }
+}
+NYK =  {
+	color = rgb { 158 188 218 }
+	color_ui = rgb { 158 188 218 }
+}
+ATC =  {
+	color = rgb { 57 177 133 }
+	color_ui = rgb { 57 177 133 }
+}
+VMT =  {
+	color = rgb { 51 160 44 }
+	color_ui = rgb { 51 160 44 }
+}
+MAS =  {
+	color = rgb { 253 180 98 }
+	color_ui = rgb { 253 180 98 }
+}
+CNT =  {
+	color = rgb { 214 96 77 }
+	color_ui = rgb { 214 96 77 }
+}
+RDI =  {
+	color = rgb { 156 203 134 }
+	color_ui = rgb { 156 203 134 }
+}
+NHA =  {
+	color = rgb { 138 222 412 }
+	color_ui = rgb { 138 222 412 }
+}
+MAI =  {
+	color = rgb { 128 177 211 }
+	color_ui = rgb { 128 177 211 }
+}
+TMP =  {
+	color = rgb { 194 165 207 }
+	color_ui = rgb { 194 165 207 }
+}
 ########################
 # Others
 ########################
